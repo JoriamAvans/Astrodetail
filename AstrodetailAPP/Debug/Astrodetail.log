@@ -1,0 +1,5 @@
+﻿  userInput.cpp
+D:\Astrodetail\Astrodetail\AstrodetailAPP\userInput.cpp(84,20): warning C4018: '<': signed/unsigned mismatch
+D:\Astrodetail\Astrodetail\AstrodetailAPP\userInput.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
+D:\Astrodetail\Astrodetail\AstrodetailAPP\userInput.cpp(123,20): warning C4018: '<': signed/unsigned mismatch
+  Astrodetail.vcxproj -> D:\Astrodetail\Astrodetail\AstrodetailAPP\Debug\Astrodetail.exe

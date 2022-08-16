@@ -2,6 +2,12 @@ Een astroide applicatie maken die werkt als volgt:
 
 input:
 eigen startdatum of specifiek ID
+
+eigen startdatum met format: "YYYY-MM-DD" bijvoorbeeld "2015-09-07"
+specifiek ID met alleen maar cijfers.
+
+kiezen is tussen optie 1 of 2. Dit vult de gebruiker ook in.
+
 output:
 
 een cmd interface die de 
