@@ -2,10 +2,12 @@
 //
 
 #include <iostream>
+#include "userInput.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    userInput in;
+    in.getDate();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
