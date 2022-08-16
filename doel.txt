@@ -1,0 +1,16 @@
+Een astroide applicatie maken die werkt als volgt:
+
+input:
+eigen startdatum of specifiek ID
+output:
+
+een cmd interface die de 
+naam, id,
+avg diameter in meters of automatisch km voorbij 1000m, 
+gevaarlijk ja of nee
+
+laat zien.
+
+In het geval van datum een lijst en in het geval van id alleen de id.
+
+OPTIONEEL (meerdere id's mee kunnen geven)
