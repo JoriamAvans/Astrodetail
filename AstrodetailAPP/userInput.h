@@ -7,9 +7,11 @@ public:
 	userInput();
 	~userInput();
 public:
-	void getInputs();
-	void getDate();
+	void startInput();
 	void getRqType();
+	void getAstroidID();
+	void getDate();
+	
 
 	void getDay();
 	void getMonth();
