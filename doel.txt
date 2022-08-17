@@ -20,3 +20,6 @@ laat zien.
 In het geval van datum een lijst en in het geval van id alleen de id.
 
 OPTIONEEL (meerdere id's mee kunnen geven)
+
+Belangrijk om te onthouden!
+Een API Key gebruiken die via een file opent! If geen file dan DEMO_KEY

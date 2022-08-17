@@ -1,5 +1,9 @@
-﻿  userInput.cpp
-D:\Astrodetail\Astrodetail\AstrodetailAPP\userInput.cpp(84,20): warning C4018: '<': signed/unsigned mismatch
-D:\Astrodetail\Astrodetail\AstrodetailAPP\userInput.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
-D:\Astrodetail\Astrodetail\AstrodetailAPP\userInput.cpp(123,20): warning C4018: '<': signed/unsigned mismatch
+﻿  Astrodetail.cpp
+  userInput.cpp
+D:\Astrodetail\Astrodetail\AstrodetailAPP\userInput.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+D:\Astrodetail\Astrodetail\AstrodetailAPP\userInput.cpp(141,20): warning C4018: '<': signed/unsigned mismatch
+D:\Astrodetail\Astrodetail\AstrodetailAPP\userInput.cpp(161,20): warning C4018: '<': signed/unsigned mismatch
+D:\Astrodetail\Astrodetail\AstrodetailAPP\userInput.cpp(183,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LINK : D:\Astrodetail\Astrodetail\AstrodetailAPP\Debug\Astrodetail.exe not found or not built by the last incremental link; performing full link
   Astrodetail.vcxproj -> D:\Astrodetail\Astrodetail\AstrodetailAPP\Debug\Astrodetail.exe
